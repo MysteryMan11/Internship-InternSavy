@@ -1,6 +1,6 @@
-# InternSavy
+# Data Science Internship Project
 
-This repository contains the data science notebooks and datasets for my internship.
+This repository contains the data science notebooks and datasets from my internship at InternSavy.
 
 ## Project Structure
 
